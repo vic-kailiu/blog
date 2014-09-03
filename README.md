@@ -1,3 +1,7 @@
+#A personal blog made based on Thinny
+
+----
+
 #Thinny - The Infinite's Nymphet
 
 
